@@ -56,7 +56,7 @@
       </a>
     </td>
     <td>
-      <a href="mailto:haneenelmalky588@gmail.com">
+      <a href="mailto:haneen.ahmed.elmalky@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px"/>
       </a>
     </td>
